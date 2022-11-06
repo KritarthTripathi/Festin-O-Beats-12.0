@@ -1,0 +1,893 @@
+<resources>
+    <string name="app_name">Festin-O-Beat 12.0</string>
+
+    <string name="navigation_drawer_open">Open navigation Drawer</string>
+    <string name="navigation_drawer_close">Close navigation Drawer</string>
+    <string name="rules_technical_poster">
+        1.  Individual participation.\n
+                2.	The subject matter of the poster must address a technical, economic or environmental aspect of engineering, or other basic engineering theme, provided it pertains to some sphere in which an engineer is or should be involved.\n
+                3.	Each poster may be no larger than 48 inches (122 cm) by 36 inches (91.4 cm) unfolded. Posters may be assembled using A4, A5 or 8½ x 11 inches paper panels.\n
+                4.	There may be no mechanical or electrical devices attached to the poster.\n
+                5.	There may be no materials placed in front of, above, below, or to the side of the poster.\n
+                6.	All material must be accessible without having to lift or turn a page.\n
+                7.	Each entry may have only one participant name printed on the poster. The name and affiliation of the author must be in a prominent place on the Poster.\n
+        8. Time duration : 1 hour\n
+
+                </string>
+
+    <string name="webdrules">
+        1.	Total duration of the event is of 2 hours.\n
+2.	Individual Participation.\n
+3.	It will be conducted in two rounds.\n
+4.	Weightage of first round and second round will be equally 50-50 percent.\n
+5.	Fest committee has right to disqualify any team for any misbehavior / misconduct.\n
+
+    </string>
+
+    <string name="rules_carribhunt">
+        1.	There will be exactly 4 members in a group and Only registered participants will be allowed.\n
+        2.	No electronics devices can be used during the event.\n
+        3.	Carry your own pens.\n
+        4.	Any kind of misbehavior will lead to disqualification.\n
+        5.	Late comers will not be entertained.\n
+        6.	Only predefined teams will be allowed.\n
+
+    </string>
+
+    <string name="rules_egogreen">
+        1.Individual Participation\n
+2.Contestants should bring their materials with them.\n
+3.Idea and technical application on them must be done during the event itself.\n
+4.Nothing must be done on the material previously; else the participant will be disqualified.\n
+5.Each candidate would be given 2-5 minutes to display or present their idea.\n
+6.Your presentation must be completely inspired from nature.\n
+7.The fest committee has the right to disqualify any participant for any misconduct.\n
+8.Time duration – 1 hour.\n
+
+    </string>
+
+    <string name="rules_wme">
+        1.	Each team will consist of 02 members.\n
+        2.	The working model must support the theme of the exhibition strictly.\n
+        3.	The model must be Semi-automatic or fully automatic.\n
+        4.	The size of the model during display should be 1x1x1 m3.\n
+        5.	The participants have to explain the concept, novelty, economic viability and functionality of the working model.\n
+        6.	The Judges decision will be the final and binding to all.\n
+        7.  Time Duration : 90 minutes.
+
+    </string>
+
+    <string name="themes_of_wme">
+        •	Solid Waste Segregation System.\n
+        •	Modern Traffic Control System.\n
+        •	Optimum Energy Management System.\n
+
+
+    </string>
+
+    <string name="rules_jugad">
+        1.	Maximum number of team member is 3.\n
+        2.	Contestant should bring their material with them.\n
+        3.	Your presentation must be either cost efficient or complexity reducer or catering some social problem.\n
+        4.	Only registered participants are allowed.\n
+        5.	Use of colors or any other decoration material is strictly prohibited.\n
+        6.	Decoration and customization have to be done with scrap material only, if required.\n
+        7.	No add on decorative material or color is permitted.\n
+        8.	Item to be made can be of any nature i.e. any engineering or general use.\n
+        9.	An open space will be provided.\n
+        10.	Participants have to explain the concept what they made.\n
+        11.	The decision of the Judges will be the final and binding to all.\n
+        12.	Contestant should bring their ID cards.\n
+        13.	Time Duration: 60 minutes.\n
+
+    </string>
+
+
+    <string name="rules_glideit">
+        1.	Team should comprise maximum of four members.\n
+2.	Material will be provided by the committee.\n
+3.	Judging will be done on the basis of\n
+\ta.)	Time of flight\n
+\tb.)	Displacement of the glider\n
+\tc.)	Design of glider\n
+4.	Dimension of glider must not be more than 15 x 15 inches.\n
+5.	The fest committee has the right to debarred/disqualify any participant for any misconduct/unfair means.\n
+6.	Only registered students will be allowed to participate in the event.\n
+
+    </string>
+
+    <string name="penalties_bridgeit">
+        Violating any of the conditions mentioned underneath, penalty will be imposed according to the judges and may lead to disqualification:\n
+        1.	<b>Weight exceeds the limit</b>\n
+        If weight exceeds up to 5% (15gm) then it will lead to 5% penalty on the total score. If weight exceeds above 5% (15gm) then it will lead to 15% penalty on the total score\n\n
+        2.   <b>Dimensional specifications are not met</b>\n
+        Penalty of 10% on the total score\n\n
+        3.	 <b>Use of material, except the ones stated in rules</b>\n
+        Penalty of 50% on the total score or can lead to disqualification as decided by the judges.\n
+
+
+    </string>
+
+    <string name="roborace_general_rules">
+
+        1.	This is racing event so fastest and most balanced robot will win.\n
+2.	Robot should be as per the given specifications. \n
+3.	Each team can have maximum 3 members. Students from different institutes can form a team.\n
+4.	Each member of the team must contain the identity card of his/her respected institute.\n
+5.	The robot should not damage the arena.\n
+6.	No test practice will be allowed on the arena.\n
+7.	The robot must not leave behind any of its parts during the run, else it will result in disqualification.\n
+8.	Unethical behavior could lead to disqualification. Faculty coordinators have all the rights to take final decision for any matter during the event.\n
+9.	Judges decision will be considered final.\n
+10.	Certificates of Participation will be given to all the teams that will participate in the event, but not to the teams which get disqualified due to disobeying any of the competition rules.\n Co–ordination committee reserves the right to add or update any rule.\n
+
+    </string>
+
+    <string name="roborace_game_rules">
+        1.	The competition is based on time trail system. There will a qualifying round for each team.\n
+2.	The top team from qualifying round makes it to the final round on basis of time trials.\n
+3.	Wires should remain slack during the course of the run. Pulling the wire to aid the robot in traversing may lead to disqualification.\n
+4.	If any of the robots starts off before start up call, the counter would be restarted and the machines will get a second chance. If repeated again then team will be disqualified.\n
+5.	Your robot must be ready when call is made for your team.\n
+6.	Team members will be allowed only three times to touch or reset their robots position during the run. However, this will lead to a time penalty and timer will not stop during this course of action.\n
+7.	The robot will be judged on basis of (in priority):\n
+  1)	Time to complete the track.\n
+  2)	Number of checkpoints cleared.\n
+8.	Machine must not contain any ready made kits, pneumatic and hydraulic systems, IC engines.\n
+9.	 Decision about your robot will be taken by the organizers.\n
+10.	No team will get a second chance after completing the track with poor score.\n
+
+    </string>
+    <string name="specs_for_robowar">
+        1.	Robo should fit into a box of 30CMx30CMx30CM (maximum).\n
+2.	Maximum weight of robot should not exceed than 10 kg (Tolerance +/- 0.5 kg).\n
+3.	The external device used to control the machine or any external device (such as batteries, remotes) is not included in the size constraint.\n
+4.	The machine should be controlled by a wireless remote control mechanism or wired one throughout the war.\n
+5.	In case of wireless system, it should have a minimum four frequency remote control circuit or two dual control circuits or a transmitter-receiver paired module so that the frequency interferences with opponent team can be avoided (in case of any interference in the wireless systems, they will not be considered for rematch or in the results).\n
+6.	Remote controls that are readily available in the market may also be used.\n
+7.	The machine must not be made from Lego parts, or any readymade Kit, if we find such machine it will be disqualified.\n
+8.	If the machine is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the machine should be stacked as single unit.\n
+9.	The wires should be properly insulated.\n
+10.	It is necessary for all that teams that the bot must be electrically or electronically powered if any team uses any type of mechanical powered system like IC ENGINE or other then it will be disqualified.\n
+
+    </string>
+
+    <string name="weapons">
+        Robots can have any kind of cutters, flippers, saws, hammers, lifting devices etc. as weapons, with the following exceptions:\n
+1.	Liquid projectiles.\n
+2.	Acid based Weapons.\n
+3.	EMP generators\n
+4.	Any kind of flammable liquid.\n
+5.	Flame-producing weapons.\n
+6.	Any kind of explosive material.\n
+7.	Nets, glue or any other entanglement devices\n
+8.	High power magnets or electromagnets, Radio jammers.\n
+9.	Pneumatic weapons.\n
+
+    </string>
+
+    <string name="rules_robowar">
+        1.	Maximum 3 participants in a team.\n
+2.	If the participants are not present at the arena on the given time slot then that team will be disqualified.\n
+3.	Burning type of instruments not allowed.\n
+4.	The machines are not allowed to leave any loose parts on any part of the arena.\n
+5.	Judges decision shall be treated as final and binding on all.\n
+6.	Bots immobilized for 10 seconds will result in reduction of points.\n
+7.	If any machine remains immobilize for1 minute it will treated passive and opponent will win the match.\n
+8.	In case of both teams immobilize for1 minute both team will be disqualify.\n
+9.	One or two operators will operate machine in the event.\n
+10.	Damage to arena is not allowed and will lead to disqualification of team.\n
+11.	The wires should remain slack during the match.\n
+12.	Teams should take care of their Bot, they will be responsible for the damage to their bots.\n
+13.	Decision made by the judges will be final.\n
+14.	Jumping and hopping is not allowed.\n
+15.	Flying (using airfoil, helium balloons, ornithopters etc.) is not allowed.\n
+16.	No rematch will be there.\n
+
+    </string>
+
+    <string name="genrules_robowar">
+        1.	Any team that is not ready at the time specified will be eliminated from the competition automatically.\n
+2.	Judges reserve the right to disqualify any team indulged in Misbehavior / argument.\n
+3.	The name of your machine must be prominently displayed on the machine.\n
+4.	Certificates of Participation will be given to all the teams that will participate in the event, but not to the teams which get disqualified due to disobeying any of the competition rules.\n
+5.	Certificate of participation will be given only to participants who will participate in war.\n
+
+    </string>
+
+    <string name="round1linef">
+        1.	The team should comprise of maximum 3 members.\n
+2.	 Each team will have to send one of their members for quiz round.\n
+3.	For every correct answer, 4 marks will be awarded. Minus 1 for every wrong answer.\n
+4.	A total number of questions=30.\n
+5.	Time Duration=30 minutes.\n
+6.	Marks of the quiz will be added in the final result.\n
+7.	The fest committee has the right to disqualify any participant for any misconduct.\n
+
+    </string>
+
+    <string name="RulesLinefollower">
+        1.	The team should comprise of maximum 3 members.\n
+2.	Robots must be autonomous. Data links to of boards computers are allowed, but no wetware (human) operated remote controls will be permitted.\n
+3.	Each team will be given a time slot, delays are strictly not allowed.\n
+4.	The track will consist of sharp as well as smooth turns. There might be 90 degree and acute angle turns also.\n
+5.	Teams will be given 3 trials out of which the best time will be considered by judges.\n
+6.	Nudging/Pushing or any type of manual handling of the robot will lead to cancellation of that run.\n
+7.	Teams will be given 2 minutes for calibration of the sensors after the first trial.\n
+8.	The width of the line will be constant (approx. 1.5 inches) throughout the track.\n
+9.	The track might also contain few crossovers (places where the line crosses itself).\n
+10.	There shall be no discontinuities in the track.\n
+11.	The track will be of black color on a white background. However, the black color may not be completely uniform and there might be slight variation in color.\n
+12.	Any robot that loses the line courses must reacquire the line at the point where it was lost, or at any checkpoint.\n
+13.	When any robot crosses, the start line before the referee the passage will be interrupted and resumed from the beginning.\n
+14.	Only registered students will be allowed to participate in the event.\n
+
+    </string>
+
+    <string name="round2linef">
+        1.	Robots must be autonomous. Data links to of boards computers are allowed, but no wetware (human) operated remote controls will be permitted.\n
+2.	 Each team will be given a time slot, delays are strictly not allowed.\n
+3.	The track will consist of sharp as well as smooth turns. There might be 90 degree and acute angle turns also.\n
+4.	Teams will be given 3 trials out of which the best time will be considered by judges.\n
+5.	Nudging/Pushing or any type of manual handling of the robot will lead to cancellation of that run.\n
+6.	Teams will be given 2 minutes for calibration of the sensors after the first trial.\n
+7.	The width of the line will be constant (approx. 1.5 inches) throughout the track.\n
+8.	The track might also contain few crossovers (places where the line crosses itself).\n
+9.	There shall be no discontinuities in the track.\n
+10.	The track will be of black color on a white background. However, the black color may not be completely uniform and there might be slight variation in color.\n
+11.	Any robot that loses the line courses must reacquire the line at the point where it was lost, or at any checkpoint.\n
+12.	When any robot crosses, the start line before the referee the passage will be interrupted and resumed from the beginning.\n
+13.	Only registered students will be allowed to participate in the event.\n
+
+    </string>
+
+    <string name="mehendi">
+        •	No. of participants: 1 member\n
+•	Time: 1 hour\n
+•	Participants are required to bring their own mehendi.\n
+•	The mehendi must cover one hand covering both sides of the palm.\n
+•	The mehendi must extend up to the wrist.\n
+•	Participants are required to bring their own partner on whose hand the mehendi will be done.\n
+•	High lighteners are not allowed.\n
+
+    </string>
+    <string name="tattoo">
+        •	No. of participants: 1 member\n
+•	Tattoo making area- upper portion of arm (shoulder to elbow.)\n
+•	Time limit: 30 minutes\n
+•	Arrangements of all the materials have to be done by participants.\n
+•	Participants are required to bring their partner on whose arm the tattoo will be designed.\n
+•	Theme will be disclosed 30 minutes before the competition.\n
+
+    </string>
+    <string name="rangoli">
+        •	No. of participants: 2 members\n
+•	Time: 1 hour\n
+•	Participants are required to bring their own colours accordingly.\n
+•	Theme will be disclosed 30 minutes before the competition.\n
+•	Only powdered colours are allowed.\n
+•	No patterns are allowed.\n
+
+
+    </string>
+
+    <string name="pot">
+        •	No. of participants: 1 member\n
+•	Time: 1 hour 30 minutes\n
+•	Participants are required to bring their own material for decoration, colours etc.\n
+•	Pots will be provided by the college.\n
+
+NOTE: \nMaximum 15 participants are allowed which will be based on first come first basis\n
+
+    </string>
+
+    <string name="sketch">
+        •	No. of participants: 1 member.\n
+•	Time: 45 minutes.\n
+•	Topic for the sketching will be disclosed 30 minutes before the competition.\n
+•	Participants are required to bring their own stationary, only drawing sheet will be provided by the college.\n
+•	Colours are not allowed.\n
+•	Sketching must be self explanatory. Participants would not be allowed for any description.\n
+
+    </string>
+
+    <string name="talkative">
+        •	No of participants: 1\n
+•	Time period- 1 Hour.\n
+•	Theme will be disclosed on the spot.\n
+•	Participants are required to bring their own material(like pencil, eraser, colours, etc.)\n
+
+    </string>
+
+    <string name="salad">
+        •	Time period – 30 minutes\n
+•	No of participant in a team- 2 members\n
+•	Any sort of vegetables/ fruits can be used.\n
+•	Bring all materials yourself. (vegetables, fruits, serving dish, knife etc)\n
+•	Artificial items and synthetic colors are not allowed.\n
+•	Candidates have to bring raw materials only.\n
+
+    </string>
+
+    <string name="clay">
+        •	No of participants in a team: 1 member.\n
+•	Time period:  45 minutes\n
+•	Only clay can be used for designing.\n
+•	Participants are required to bring their own material.\n
+
+    </string>
+
+    <string name="bestshot">
+        •	No. of participants per team: 1 member\n
+•	Participants have to register with their digital camera.\n
+•	Photographs only from institute campus with dated________ should be submitted.\n
+•	Participant must ensure that the registered photograph is taken by him / her only else his/ her participation will be cancel.\n
+•	Digital manipulations and adjustments are not allowed (no Photoshop or any software effects allowed).\n
+•	Full Day (10:30 a.m. to 3.30 p.m.) will be given to the participants.\n
+
+    </string>
+
+    <string name="hobby">
+        •	No of participants: 1 member\n
+•	Time period: 1 hour\n
+•	Participants are required to bring their collection. \n
+•	Judges would also do the questionnaire round regarding the collection they have bought.\n
+
+    </string>
+
+    <string name="collage">
+        •	No. of participants: 2 members\n
+•	Theme will be_________.\n
+•	Time: 1 hour.\n
+•	Participants are required to bring Newspapers, glue, scissors, colours, chart paper, thermocol, etc.\n
+•	 Participants will have to portray their collage to the judges at the end of the competition.\n
+•	NOTE: ONLY NEWSPAPER CUTTINGS ARE ALLOWED (Print outs, cuttings from Magazines etc.) are not allowed.\n
+        
+    </string>
+
+    <string name="facepaint">
+        •	No. of participants: 1 member\n
+•	Time: 45 minutes\n
+•	Participants are required to bring their own colours.\n
+•	Participants are required to bring their partner on whose face the painting will be done.\n
+
+    </string>
+
+    <string name="bestofcrap">
+        •	No. of participants: 1 member\n
+•	Time: 1 hour\n
+•	Theme will be disclosed on the spot.\n
+•	Participants are required to bring their own glue, scissors, colours, etc.\n
+•	The waste/scrap material will be provided by the college.\n
+        
+    </string>
+
+
+    <string name="mos">
+        •	No of participants in a team- 1 member\n
+•	Time period –  1 Hour\n
+•	Only glass pieces can be used for designing.\n
+•	Participants are required to bring their own material.\n
+
+    </string>
+
+    <string name="nail">
+        •	No of participant: 1 member\n
+•	Time period -30 minutes\n
+•	No theme\n
+•	Participants are required to bring their partner on whose nail art is to be done.\n
+•	Participants are required to bring their accessories and material.\n
+
+    </string>
+
+    <string name="hair">
+        •	No of participants: 1 member\n
+•	Time period: 30 minutes\n
+•	Participants are required to bring their partner on whom hair styling will be done.\n
+•	Participants are required to bring their accessories and material.\n
+
+    </string>
+
+    <string name="Tshirt">
+        •	No of participants in a team: 1 member\n
+•	Time period:  45 minutes\n
+•	Theme will be disclosed on the spot.\n
+•	Participants are required to bring their material except T shirt which will be provided.\n\n
+NOTE: Maximum 15 participants are allowed which will be based on first come first basis.\n
+
+    </string>
+
+    <string name="soap">
+        •	No of participants in a team- 1 member\n
+•	Time period –  1 Hour\n
+•	Participants need to carve the object given on the spot.\n
+•	Participants are required to bring their material except soap which will be provided.\n
+NOTE: Maximum 15 participants are allowed which will be based on first come first basis.\n
+
+    </string>
+
+    <string name="movie">
+        •	No. of participants per team: 4 members\n
+•	Participants should register with their digital camera.\n
+•	Dated Videos only from institute campus should be submitted.\n
+•	Digital manipulations and adjustments are not allowed (no Photoshop or any software effects allowed).\n
+•	Full Day (10:30AM to 3:00 PM) will be given to the participants.\n
+
+    </string>
+
+    <string name="scrap">
+        •	No. of participants: 1 member\n
+•	Time: 1 hour \n
+•	Theme will be disclosed on the spot.\n
+•	Participants are required to bring their own glue, scissors, colours, etc.\n
+•	The waste/scrap material will be provided by the college.\n
+
+    </string>
+
+    <string name="cook">
+        •	No. of participants per team: 2 members\n
+•	Time: 1 hour\n
+•	Participants are required to bring their own material as per their requirement.\n
+•	Boiled food from home is not allowed (like boiled potatoes, boiled dal etc.)\n
+
+    </string>
+
+    <string name="solosing">
+        1.	The entire competition is divided into two rounds.\n
+2.	For the first round the participants are free to choose any singing genre of their choice.\n
+3.	The participants qualifying 1st round will only go to second round.\n
+4.	For final round the genre would be given by judges and song can be of participant choice.\n
+5.	Duration:\n
+\tSinging:\n
+		\tRound 1: 3 minutes\n
+		\tRound 2: 4-5 minutes\n
+6.	 The songs should only be in Hindi.\n
+7.	 There should not be any brusqueness or anything else which is catastrophic.\n
+8.	 The Performer should arrange the track and submit it to the committee at least two hours before the performance.\n
+9.	 The performer should be in right dress code.\n
+10.	 The performer should not come offstage or in between the audience while performing.\n
+11.	The Committee holds the right to cancel the performance on stage if found any inappropriate and objectionable.\n
+
+    </string>
+    <string name="groupsing">
+       1.	Team can comprise of 4-6 members.\n
+2.	The entire competition is divided into two rounds.\n
+3.	For the first round the participants are free to choose any singing genre of their choice.\n
+4.	The participants qualifying 1st round will only go to second round.\n
+5.	For final round the genre would be given by judges and song can be of participant choice.\n
+6.	Duration:\n
+\tSinging:\n
+		\tRound 1: 3 minutes\n
+		\tRound 2: 4-5 minutes\n
+7.	 The songs should only be in Hindi.\n
+8.	 There should not be any brusqueness or anything else which is catastrophic.\n
+9.	 The Performer should arrange the track and submit it to the committee at least two hours before the performance.\n
+10.	 The performer should be in right dress code.\n
+11.	 The performer should not come offstage or in between the audience while performing.\n
+12.	The Committee holds the right to cancel the performance on stage if found any inappropriate and objectionable.\n
+
+    </string>
+
+    <string name="solod">
+        1. The songs must be proper with no offensive words.\n
+2. The participant must provide the track to the committee 24 hours prior to the
+performance.\n
+3. The performance must be in proper dress code as assigned or the one appropriate for the
+college.\n
+
+4. Duration:\n
+\tRound 1: 3 minutes\n
+\tRound 2: 4-5 minutes\n
+
+5. The Committee holds the right to cancel the performance on stage if found anything
+inappropriate and objectionable.\n
+    </string>
+
+    <string name="groupd">
+        1. For Group dance team can comprise of 3-16 members.\n
+2. The songs must be proper with no offensive words.\n
+3. The participant must provide the track to the committee 24 hours prior to the
+performance.\n
+4. The group dance must not contain any sort of couple dance elements.\n
+5. The performance must be in proper dress code as assigned or the one appropriate for the
+college.\n
+
+Duration:\n
+\tGroup Dance:\n
+\tRound 1: 7-8 minutes\n
+
+6. The Committee holds the right to cancel the performance on stage if found anything
+inappropriate and objectionable.\n
+    </string>
+
+    <string name="followbeat">
+        1. The music played could be of any genre, and the songs will be continuously shuffled.\n
+2. Any obscene actions/steps shall result in the disqualification of the participant.\n
+3. The decision of the judges shall be final and binding.\n
+    </string>
+
+    <string name="skitrules">
+        1. The script of the skit must be approved by the committee.\n
+2. The script should be submitted to the committee convener.\n
+3. There should not be any double meaning word or dialogues in the skit.\n
+4. The skit should be purely based on some social issues.\n
+5. There should not be any brusqueness or anything else which is catastrophic.\n
+6. Performer can use any props if required on the stage for performance with prior permission
+of the committee and arrangement for the same should be made by the performer. The
+committee is not responsible for arrangement of anything as such.\n
+7. The performer should be in right dress code.\n
+8. The members should not exceed by 12(Maximum).\n
+9. Duration: 15 minutes.\n
+10. The Committee holds the right to cancel the performance on stage if found anything
+offensive.\n
+    </string>
+
+    <string name="standup">
+        1. The script of the act must be approved by the committee.\n
+2. The script of the act should be submitted to the committee convener.\n
+3. There should not be any double meaning word or dialogues in the act.\n
+4. There should not be any brusqueness or anything else which is catastrophic.\n
+5. Performer can use any props if required on the stage for performance with prior permission
+of the committee and arrangement for the same should be made by the performer. The
+committee is not responsible for arrangement of anything as such.\n
+6. The performer should be in right dress code.\n
+7. Duration: 15 minutes.\n
+8. The Committee holds the right to cancel the performance on stage if found anything
+offensive.\n
+    </string>
+
+    <string name="sufib">
+        1. Each band must be registered with the cultural committee before the day of event.\n
+2. Band should reach the college one hour prior to the beginning of the event.\n
+3. Performance time should not exceed the given time limit.\n
+4. Songs performed must be Sufi. No metal, hard rock or any other will be allowed.\n
+5. The band members will not be granted permission to enter the audience in between
+the performance.\n
+6. No offensive words or actions will be entertained.\n
+7. Maximum number of members should be 10.\n
+8. The maximum time limit for each band is 20 mins.\n
+9. The committee holds the right to cancel the performance in case there is
+anything objectionable.\n
+    </string>
+
+    <string name="fashionwalk">
+        1. The fashion show will be conducted in two rounds- Ramp walk and Judges round.\n
+2. Ramp walk will include the introduction and talent show and judges round will
+include the questioning round.\n
+3. The participant should arrange their dress by themselves.\n
+4. The dress code would be provided 72 hours prior to the event.\n
+5. One hour prior to the show the ramp chart would be provided to the participant.\n
+6. The Committee holds the right to cancel the performance on stage if found
+anything offensive.\n
+    </string>
+
+    <string name="howpositive">
+        1.	In this event a negative will be displayed on projector for a duration of 15 minutes, during this time period participants have to write a positive aspect from the given image. (50-100 words)\n
+2.	Obey the rules of grammar, usage and punctuation.\n
+3.	Make your language concrete, not abstract, specific, not general.\n
+4.	Maintain a consistent style and tone.\n
+5.	Use adjectives and adverbs with restraint.\n
+6.	Use of vulgar language is not permissible.\n
+7.	Language either Hindi or English but not a mixed one.\n
+8.	Participants should carry their own pen/pencil.\n
+
+    </string>
+
+
+    <string name="connect">
+        1.	Individual participation.\n
+2.	Images of different objects will be given. Participants have to write a paragraph.\n
+3.	Paragraph should contain features of each picture.\n
+4.	Obey the rules of grammar, usage and punctuation.\n
+5.	Make your language concrete, not abstract, specific, not general.\n
+6.	Maintain a consistent style and tone.\n
+7.	Use of vulgar language is not permissible.\n
+8.	Language either English or Hindi but not a mixed one.\n
+9.	Participants should carry their own pen/pencil.\n
+
+    </string>
+
+    <string name="funny">
+        1.	Individual participation.\n
+        2.  In this event a popular or well-known story will be given as a subject. Participants have to insert some fun in given story. (150-200 words).\n
+3.	Maintain a consistent style and tone.\n
+4.	Use adjectives and adverbs with restraint.\n
+5.	Use of vulgar language is not permissible.\n
+6.	Language either Hindi or English but not a mixed one.\n
+7.	Participants should carry their own pen/pencil.\n
+
+    </string>
+
+    <string name="poetryrules">
+        1.	In this event participants have to write a  poem. Individual and separate topic will be given to all on random basis. (16-20 lines)\n
+2.	Maintain a consistent style and tone.\n
+3.	Use of vulgar language is not permissible.\n
+4.	Language can be either Hindi or English but not a mixed one.\n
+5.	Participants should carry their own pen/pencil.\n
+
+    </string>
+
+    <string name="creative">
+        1.	In this event participants have to write an essay on the given topic. Topic will be common to all participants and will be given on the spot. (200-250 words)\n
+2.	Obey the rules of grammar, usage and punctuation.\n
+3.	Make your language concrete, not abstract, specific, not general.\n
+4.	Maintain a consistent style and tone.\n
+5.	Use adjectives and adverbs with restraint.\n
+6.	Use of vulgar language is not permissible.\n
+7.	Language either Hindi or English but not a mixed one.\n
+8.	Participants should carry their own pen/pencil.\n
+
+    </string>
+
+    <string name="nyp">
+        •	English/Hindi should be the language for communication.\n
+•	Use of vulgar language/words is not permissible.\n
+•	There can be round 2nd  if the teams are more than 4.\n
+•	Topic of debate as well as speakers in favor and against to be decided on the basis of lottery.\n
+•	Time for Total activity is 55 mins.\n
+•	Topic to be given on the spot and team will get 5 min to discuss with the team.\n
+•	Team have to provide the issues in the topic, solutions in the topic through any bill or policy.\n
+•	They should give imaginary or fictitious names to their parties and personalities. They should not give any impression that they have any leanings or bias for or against any political party or philosophy.\n
+•	The members should not say or do anything on the floor of the House that is not warranted by rules of procedures or by the ruling or precedence or by the accepted and established customs and conventions of the House.\n
+•	Members should not sit with their backs to the Chair. When a member wants to speak he should raise hands to attract the attention of the Chair. No member should speak unless he or she has ‘Caught’ the eye of the Speaker and has been permitted by the Chair by name or by a sign, to speak.\n
+•	Every member should resume his seat as the Speaker rises to speak or calls out “order-order” and also when any other member is in possession of the floor. Two or more members should not keep standing at the same time.\n
+•	No member should rise or leave the House when the Speaker is addressing the House. “The Speaker is always to be heard in silence”.\n
+•	The duration of sitting of NYP should not exceed 55 minutes. Out of this, nearly 20 minutes may be devoted to Questions and the remaining time be utilized for discussion on topic.\n
+
+    </string>
+
+    <string name="debate">
+        1.	This will be an individual contest.\n
+2.	Time limit: 3 min for each side of the person and 1 min for debate on contradictory points.\n
+3.	The topics would be declared in advance (list attached).\n
+4.	Participants will have choices to speak for and against the motion.\n
+5.	Participants should speak relevant points related to the topic.\n
+6.	Each speaker will present his/her speech in Hindi.\n
+7.	Warning bell will be rung after 2.5 min for each of the participant and final bell after 3 min.\n
+8.	Exceeding the prescribed time will result negative marks.\n\n
+
+Evaluation Parameters:\n
+The speaker will be judged on the following criteria, and will be awarded marks accordingly.\n\n
+
+Evaluation Basis:\t\tMarking Scheme (Marks)
+	Interpretation of the motion\t\t10
+	Logical presentation of argument\t\t10
+	Evidences and examples\t\t10
+	Audibility and loudness\t\t10
+	Rebuttal of interjection\t\t10\n\n
+
+
+Total of 50 Marks\n\n
+
+Tie Rule:\nIf there is a tie between two a random topic will be given by judges and finalize the winner.\n
+
+    </string>
+
+    <string name="slogan">
+        1.	In this event, 1 topic will be given on the spot. Topic is related to social issues of the society. Participants have to write one slogan on given topic. (Additional marks will be provided for decoration.)\n
+2.	The students should carry colour pens, sketch pens with them.\n
+3.	A 30 minutes time will be given for activity.\n
+4.	Write-ups should be in English or Hindi.\n
+
+    </string>
+
+    <string name="words">
+        1.	In this event, pair of alphabets will be given to participants. The task is to write the maximum words possible having the pair of alphabet in the beginning, or in the middle or at the last of word.\n
+2.	Obey the rules of grammar, usage and punctuation.\n
+3.	Make your language concrete, not abstract, specific, not general.\n
+4.	Maintain a consistent style and tone.\n
+5.	Use adjectives and adverbs with restraint.\n
+6.	Use of vulgar language is not permissible.\n
+7.	Participants should carry their own pen/pencil.\n
+
+    </string>
+
+    <string name="jamrules">
+        1. The JAM master is God. No questions or arguments once the final decision has been made.\n
+2. To object, slam the table and say "JAM". The JAM master decides when you are allowed to put forth your objection.\n
+3. You get a penalty if the competition objects on any of the following counts:\n
+\ta. You object out of turn.\n
+\tb. You stutter, stammer, and generally indulge in time-wasting tactics.\n
+\tc. Early start and late start.\n
+\td. Speaking too fast or too slow\n.
+\te. Grammatical errors.\n
+\tf. Undue stress on words, undue emphasis in the sentences.\n 
+\tg. Repetition of a previously used idea. \n
+\th. Not following the "random rules" as set by the JAM master. For example the most popular random rule was "Praise Guntas before objecting”.If you forget to do so or the JAM master thinks that the praise was not good enough you will not be allowed to object and lose points for an incorrect/bad objection\n
+4. The total time is sixty seconds, inclusive of all the time that all the speakers in a given round are allowed to speak.\n
+5. Points are given in the following manner :\n
+\ta. Positive points for every second that you speak.\n
+\tb. Positive points for every correct objection.\n
+\tc. Negative points for every incorrect objection.\n
+\td. Bonus points for being the last speaker\n
+6. The winner is the person with the maximum number of points at the end of the round.\n
+
+    </string>
+
+    <string name="Gkquiz">
+1.	Participants are requested to register in form of team of three members.\n
+2.	Final selection of the team would be done on the basis of an on the spot written test.\n
+3.	The team would be selected on the basis of criteria of minimum time used and maximum questions answered.\n
+4.	Finalized four teams would take part in the main quiz.\n
+5.	The quiz comprises of 5 rounds.\n
+6.	First round comprises of questions related to Current affairs.\n
+7.	Second round comprises of questions related to Politics.\n
+8.	Third round comprises of questions based on Geographical conditions.\n
+9.	Fourth round comprises of questions based on Sports.\n
+10.	Fifth round comprises of questions based on Miscellaneous questions .\n
+11.	Each team would be allotted 45 seconds for answering the questions.\n
+12.	Each questions answered correctly would be awarded 5 points for each wrong answer 2 points would be deducted from the team answering.\n
+13.	The quiz would be buzzer based quiz the team pressing the buzzer the first would be given the first opportunity to answer the question.\n
+14.	If the team is unable to answer the question correctly the question would be passed to the other three teams.\n
+15.	If the team is unable to answer the question within the time limit the would be negatively marked i.e. (-2 points).\n
+16.	For the team answering the passed question correctly they would be awarded (+2 points).\n
+17.	For wrongly answered passed questions 1 point would be deducted from the answering team.\n
+
+    </string>
+
+
+    <string name="spell">
+        1.	Preliminary / Elimination round is a qualifying for the event. Those participants who fail to appear for the preliminary round shall not be considered for the finals.\n
+2.	Every entry should contain the following details: Name, Class, College roll no., Address, Phone and Email.\n
+3.	The registrations are to be done on-line.\n
+4.	The maximum time for SPELL A WORD is 30 seconds.\n
+5.	The rules and regulations for the preliminary and final round shall remain the same.\n
+6.	The organizing Committee reserves the right to change the venue, time and rules, if desired.\n
+
+    </string>
+
+    <string name="dumb">
+        1.	Team can comprise of 4 students.\n
+2.	One from the team will be given a title of a book to enact.\n
+3.	The other Participant will guess the name within the stipulated 1 minute.\n
+4.	There can be 4 rounds.\n
+5.	All the participants will be given a turn to enact.\n
+6.	Participants cannot use sign language depicting alphabets.\n
+7.	There will be scoring of 10 marks for every round.\n
+8.	If there is a tie, then another round will be done to decide the winner.\n
+
+    </string>
+
+    <string name="eloc">
+        1.	Medium of expression will be Hindi or English.\n
+2.	Each speaker will be allowed to speak for maximum 3 minutes in the First Round and 10 minutes in the Second Round.\n
+3.	Topic of elocution will be announced in the Coordinators meeting.\n
+4.	The performance will be judged in one language.\n
+5.	The item shall be prose or poetry and not song.\n
+6.	The sequence of speakers will be decided by a draw of lots.\n
+
+    </string>
+
+    <string name="bussiness_rules">
+
+        Entry should be individual or comprise of a team of max 3 members.\n\n
+1.	Each team can submit only one Business Plan.\n
+2.	Max. Time limit for presentation: 10 minutes.\n
+3.	Participation requires submission of a report made on A4 size sheets of maximum 4 pages and duly typed along with a presentation to be produced in front of the panel of judges.\n
+4. Hard Copy of the Report will be prepared as per the attached template.\n
+5. Plan to be prepared for implementation, keeping in view the following parameters:\n\n
+•	Macro and Micro environment analysis of the business selected.\n
+•	Market feasibility study – market potential, demand-supply analysis.\n
+•	Developing marketing strategy.\n
+•	Competitor analysis.\n
+•	Estimated cost of the project and its financing.\n
+•	Technical and financial viability of the project.\n
+6. There will a query round of maximum 10 Minutes after the presentation.\n
+Tie Rule: If there is a tie between two teams then a question of any current business condition raised by judges, can be evaluated for winner.\n\n
+Evaluation Criteria:\n
+        •	Concept/Premise      10points\n
+•	Presentation      10points\n
+•	Commercial Potential      10points\n
+•	Social Impact      10points\n
+•	Challenge Evaluation      10points\n
+
+
+    </string>
+
+    <string name="busin_about">
+        A business plan is a written description of the future of your business, a document that tells what you plan to do and how you plan to do it.
+The objective of Competition is to encourage student entrepreneurs and support the growth of jobs.
+
+    </string>
+
+    <string name="admads">
+        1.  No of students per team: Individual to max 3 participants.\n
+2.  Max. Time limit : 3 minutes for presentation\n
+3.	Competition will have 2 rounds:\n
+\t\tRound 1: Each team will have to prepare their own advertisement based on their own creativity. (Maximum of 4 teams will be shortlisted for round 2).\n
+
+\t\tRound2: The shortlisted teams will be given a product for preparing an advertisement within 30 min. Any material if required to be brought by the participants themselves.\n\n
+        4.	The caution should be taken to refrain from displaying obscenity, violence, prejudice, defamation, ethical practices etc.\n
+5.	Decision of the judges will be final and binding.\n\n
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="c_codejam">
+
+        1.	Individual participation.\n
+2.	All the participants must carry their ID cards along with them.\n
+3.	Participants can code the program in C/C++/JAVA.\n
+4.	There will be three rounds:\n
+•	Round 1:\n
+\t\ti.	First round will be a quiz round. The quiz consists of 20 MCQ’s (30 minutes) and cut off for second round will be set accordingly.\n
+•	Round 2:\n
+\t\ti.	In second round, participants will have to code 2 programs out of 3 on the systems.\n
+•	Round 3:\n
+\t\tThird round will consist of 2 programming questions out of which candidate needs to code 1 of them.\n
+5.	All the rounds are elimination round.\n
+6.	The fest committee has the right to debarred/disqualify any participant for any misconduct/unfair means.\n
+7.	The participants shall not be allowed to use mobile or other electronic instruments.\n
+8.	Only registered students will be allowed to participate in the event.\n
+
+
+    </string>
+    <string name="py_codejam">
+
+        1.	Individual participation.\n
+2.	All the participants must carry their ID cards along with them.\n
+3.	Participants can code the program in Python.\n
+4.	There will be three rounds:\n
+•	Round 1:\n
+\t\ti.	First round will be a quiz round. The quiz consists of 20 MCQ’s (30 minutes) and cut off for second round will be set accordingly.\n
+•	Round 2:\n
+\t\ti.	In second round, participants will have to code 2 programs out of 3 on the systems.\n
+•	Round 3:\n
+\t\tThird round will consist of 2 programming questions out of which candidate needs to code 1 of them.\n
+5.	All the rounds are elimination round.\n
+6.	The fest committee has the right to debarred/disqualify any participant for any misconduct/unfair means.\n
+7.	The participants shall not be allowed to use mobile or other electronic instruments.\n
+8.	Only registered students will be allowed to participate in the event.\n
+
+
+    </string>
+    <string name="mat_codejam">
+
+        1.	Individual participation.\n
+2.	All the participants must carry their ID cards along with them.\n
+3.	Participants will code the program in MATLAB.\n
+4.	There will be three rounds:\n
+•	Round 1:\n
+\t\ti.	First round will be a quiz round. The quiz consists of 20 MCQ’s (30 minutes) and cut off for second round will be set accordingly.\n
+•	Round 2:\n
+\t\ti.	In second round, participants will have to code 2 programs out of 3 on the systems.\n
+•	Round 3:\n
+\t\tThird round will consist of 2 programming questions out of which candidate needs to code 1 of them.\n
+5.	All the rounds are elimination round.\n
+6.	The fest committee has the right to debarred/disqualify any participant for any misconduct/unfair means.\n
+7.	The participants shall not be allowed to use mobile or other electronic instruments.\n
+8.	Only registered students will be allowed to participate in the event.\n
+
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="depquiz">
+        1.	Individual Participation.\n
+2.	For every correct answer 1 mark will be awarded. There will be no negative marking.\n
+3.	There will be two rounds. First round will have 40 MCQ for 20min.\n
+4.	Only qualified participants will take second round having 20 MCQs in 10min.\n
+5.	A participant with maximum correct answer in shortest time will get first position. \n
+6.	There will be separate quiz for CS/IT/AI/DS/IoT, ECE, ME.\n
+7.	Only registered students will be allowed to participate in the event.\n
+
+    </string>
+
+    <string name="lquiz">
+        1.	Individual Participation.\n
+2.	Competition will consist of 30 questions.\n
+3.	Logo will be displayed for 10 seconds.\n
+4.	For every correct answer 1 mark will be awarded.\n
+        5.There will be no negative marking.\n
+6.	You are not allowed to use mobile or other electronic instruments.\n
+7.	The fest committee has all the right to debarred/disqualify any participant for any misconduct/unfair means.\n
+8.	Only registered students will be allowed to participate in the event.\n
+
+    </string>
+
+    <string name="aboutus">
+        The College Annual Fest is about giving an unbridled flight to your creative instincts to soar high, finding your ground as a performer and getting to know the hidden potential that unravels itself in different hues. Festive spirit reins the participation of students coming in from different colleges to find a common platform that promises to give fillip to their confidence in more ways than one. Be it leadership, team spirit, organization, cooperation, or culture, annual fest Festin-O-Beats 12.0 cater to all with clan. You are cordially invited to join the bandwagon to make it a grand success -like always.
+    </string>
+
+
+</resources>

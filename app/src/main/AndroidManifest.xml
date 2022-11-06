@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abesit.amritotsavabesit">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FestinOBeat">
+        <activity
+            android:name="com.abesit.amritotsavabesit.Teams"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.ProgActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Quiz"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Codejam1"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.AboutPage"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.connectwithobject"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Elocu"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Dumbcharades"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.checkknow"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.spellingbee"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.AdMad"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Justamin"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Words"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Slogan_writing"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Debate_activity"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.creative_write"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Poem"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Makeitfunny"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.YouthP"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.HowPositive"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.bussiness"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.bandwars"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.fashionshow"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.standupcom"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.skit"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Followthebeats"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.GroupDance"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.DuetDance"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.SoloDance"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Cookwithoutfire"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Bestoutofscrap"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.MovieMaking"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Soapcarving"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Tshirtpainting"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Hairstyling"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Nail_art"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Groupsinging"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Duetsinging"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.solosinging"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Face_Painting"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Collage_Making"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Best_Shot"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.HobbyCollection"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.ClayArt"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.SaladCarving"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.TalkativeCartoon"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Sketching"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.PotPainting"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.TattooMaking"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Rangoli"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Mehendi"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.LineFollower"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.RoboWar"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Roborace"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.BridgeIt"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.GlideIt"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Webd"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Frugal"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.WorkingM"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.EgoGreen"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.carrib_hunt"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Techposter"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Fineselect"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Litselect"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.Techselect"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.CulturalselectActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.abesit.amritotsavabesit.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.abesit.amritotsavabesit.screen"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

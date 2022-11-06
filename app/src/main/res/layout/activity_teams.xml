@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Dlayout3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context="com.abesit.amritotsavabesit.Teams">
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/header"
+        app:menu="@menu/main_menu" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_tricolor"
+        android:id="@+id/Sview11">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/cL2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="#00FFFFFF"
+                android:minHeight="?attr/actionBarSize"
+                android:theme="?attr/actionBarTheme"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:navigationIcon="@drawable/menu"
+                app:title="Contact Us"
+                app:titleTextColor="#FFEB3B"/>
+
+            <ImageView
+                android:id="@+id/imageView0007"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginTop="56dp"
+                android:paddingRight="30dp"
+                android:background="@drawable/mainofindia"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:fontFamily="@font/roboto"
+                android:text="Festin-O-Beat 12.0"
+                android:textColor="#1C1B1B"
+                android:textSize="30sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Annual Fest ABES Institute of Technology"
+                android:textColor="#1C1B1B"
+                android:textSize="12sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+            <TextView
+                android:id="@+id/corecommitee"
+                android:layout_width="match_parent"
+                android:layout_height="25sp"
+                android:textColor="@color/purple_700"
+                android:text="Organisers And Core Team"
+                android:textSize="20sp"
+                android:layout_marginTop="25dp"
+                android:gravity="center_horizontal"
+                app:layout_constraintTop_toBottomOf="@id/textView2"/>
+
+            <LinearLayout
+                android:id="@+id/firstcard"
+                android:layout_width="200dp"
+                android:layout_height="105dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:layout_marginTop="15dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/corecommitee">
+
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cview1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    app:cardBackgroundColor="#0000">
+
+
+                    <TextView
+                        android:id="@+id/name_vardhan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="top"
+                        android:fontFamily="@font/baloo"
+                        android:foregroundGravity="center_horizontal"
+                        android:gravity="center_horizontal"
+                        android:textSize="10sp"
+                        android:text="Vardhan Bhardwaj"
+                        android:textAlignment="center"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/contact_vardhan"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:layout_gravity="bottom"
+                        android:fontFamily="@font/baloo"
+                        android:gravity="center_horizontal|center_vertical"
+                        android:text="+91 9871844065"
+                        android:textIsSelectable="true"
+                        android:textColor="@color/black"
+                        android:textSize="10sp"
+                        app:layout_constraintTop_toBottomOf="@id/name_vardhan" />
+
+                </androidx.cardview.widget.CardView>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/nextcards"
+                android:layout_width="360dp"
+                android:layout_height="105dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/firstcard">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cview2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    app:cardBackgroundColor="#0000">
+
+
+
+                    <TextView
+                        android:id="@+id/name_ujjwal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="top"
+                        android:fontFamily="@font/baloo"
+                        android:gravity="center_horizontal"
+                        android:textSize="10sp"
+                        android:foregroundGravity="center_horizontal"
+                        android:text="Ujjawal Chaudhary"
+                        android:textAlignment="center"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/contact_ujjawal"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:layout_gravity="bottom"
+                        android:fontFamily="@font/baloo"
+                        android:gravity="center_horizontal|center_vertical"
+                        android:text="+91 9990009342"
+                        android:textSize="10sp"
+                        android:textIsSelectable="true"
+                        android:textColor="@color/black"
+                        app:layout_constraintTop_toBottomOf="@id/name_ujjwal" />
+
+
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cview3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    app:cardBackgroundColor="#0000">
+
+
+                    <TextView
+                        android:id="@+id/name_pranav"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="top"
+                        android:fontFamily="@font/baloo"
+                        android:foregroundGravity="center_horizontal"
+                        android:gravity="center_horizontal"
+                        android:text="Pranav Vashistha"
+                        android:textSize="10sp"
+                        android:textAlignment="center"
+                        android:textColor="@color/black" />
+
+
+                    <TextView
+                        android:id="@+id/contact_pranav"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:layout_gravity="bottom"
+                        android:fontFamily="@font/baloo"
+                        android:gravity="center_horizontal|center_vertical"
+                        android:text="+91 9548577787"
+                        android:textIsSelectable="true"
+                        android:textColor="@color/black"
+                        android:textSize="10sp"
+                        app:layout_constraintTop_toBottomOf="@id/name_pranav" />
+
+                </androidx.cardview.widget.CardView>
+
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/next2cards"
+                android:layout_width="360dp"
+                android:layout_height="105dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/nextcards">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cview4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    app:cardBackgroundColor="#0000">
+
+
+                    <TextView
+                        android:id="@+id/Name_kanishk"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="top"
+                        android:fontFamily="@font/baloo"
+                        android:gravity="center_horizontal"
+                        android:foregroundGravity="center_horizontal"
+                        android:text="Kanishak Chaurasia"
+                        android:textSize="10sp"
+                        android:textAlignment="center"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/contact_kanisk"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:layout_gravity="bottom"
+                        android:fontFamily="@font/baloo"
+                        android:gravity="center_horizontal|center_vertical"
+                        android:text="+91 9312442192"
+                        android:textIsSelectable="true"
+                        android:textColor="@color/black"
+                        android:textSize="10sp"
+                        app:layout_constraintTop_toBottomOf="@id/Name_kanishk" />
+
+
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cview5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1"
+                    app:cardBackgroundColor="#0000">
+
+
+                    <TextView
+                        android:id="@+id/name_shivam"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="top"
+                        android:fontFamily="@font/baloo"
+                        android:gravity="center_horizontal"
+                        android:foregroundGravity="center_horizontal"
+                        android:text="Shivam Kumar"
+                        android:textSize="10sp"
+                        android:textAlignment="center"
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/contact_shivam"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:layout_gravity="bottom"
+                        android:fontFamily="@font/baloo"
+                        android:gravity="center_horizontal|center_vertical"
+                        android:text="+91 6206349188"
+                        android:textIsSelectable="true"
+                        android:textColor="@color/black"
+                        android:textSize="10sp"
+                        app:layout_constraintTop_toBottomOf="@id/name_shivam" />
+
+                </androidx.cardview.widget.CardView>
+
+
+
+            </LinearLayout>
+
+            <!--<ImageView
+                android:id="@+id/imageView00007"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginTop="70dp"
+                android:paddingRight="30dp"
+                android:background="@drawable/azaadimahotsav"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/next2cards" />-->
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+    </ScrollView>
+
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

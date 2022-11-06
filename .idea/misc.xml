@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable-anydpi/menu.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable/about_24.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable/backforimage.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable/butooncustom.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable/coordinator_button.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable/cultbuttons.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable/finebuttons.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable/litbuttons.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable/schbutton.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable/techbuttons.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/drawable/venue_24.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_about_page.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_ad_mad.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_bandwars.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_best_shot.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_bestoutofscrap.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_bridge_it.xml" value="0.14582431847684985" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_bussiness.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_carrib_hunt.xml" value="0.22" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_checkknow.xml" value="0.22" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_clay_art.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_codejam1.xml" value="0.22" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_collage_making.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_connectwithobject.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_cookwithoutfire.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_creative_write.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_culturalselect.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_debate.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_duet_dance.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_duetsinging.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_dumbcharades.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_ego_green.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_elocu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_face_painting.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_fashionshow.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_fineselect.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_followthebeats.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_frugal.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_glide_it.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_group_dance.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_groupsinging.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_hairstyling.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_hobby_collection.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_how_positive.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_justamin.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_line_follower.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_litselect.xml" value="0.2912705272255834" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_mainscreen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_makeitfunny.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_mehendi.xml" value="0.22" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_movie_making.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_nail_art.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_poem.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_pot_painting.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_prog.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_quiz.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_rangoli.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_robo_war.xml" value="0.13272942103190233" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_roborace.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_salad_carving.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_screen.xml" value="0.22" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_sketching.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_skit.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_slogan_writing.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_soapcarving.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_solo_dance.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_solosinging.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_spellingbee.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_standupcom.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_talkative_cartoon.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_tattoo_making.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_teams.xml" value="0.22" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_techposter.xml" value="0.22" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_techselect.xml" value="0.1" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_tshirtpainting.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_webd.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_words.xml" value="0.5" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_working_m.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/activity_youth_p.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/fragment_c_code.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/fragment_deptquiz.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/fragment_java_code.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/fragment_logoquiz.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/fragment_python_code.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/header.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/layout/toolbar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/91828/AndroidStudioProjects/AmritotsavABESIT/app/src/main/res/menu/main_menu.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

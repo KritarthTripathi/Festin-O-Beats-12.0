@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_baseline_home_24"/>
+        <item
+            android:id="@+id/nav_cult"
+            android:title="Cultural Events"
+            android:icon="@drawable/ic_culture_24"/>
+        <item
+            android:id="@+id/nav_techno"
+            android:title="Technical Events"
+            android:icon="@drawable/ic_baseline_laptop_24"/>
+        <item
+            android:id="@+id/nav_litrary"
+            android:title="Literary Events"
+            android:icon="@drawable/ic_literature_24"/>
+        <item
+            android:id="@+id/nav_FineNPic"
+            android:title="FineArt and Photography"
+            android:icon="@drawable/ic_camera_24"/>
+
+        <item
+            android:id="@+id/nav_venue"
+            android:title="Venue Details"
+            android:icon="@drawable/venue_24"/>
+        <item
+            android:id="@+id/nav_help"
+            android:title="Contact Us"
+            android:icon="@drawable/ic_help_24"/>
+
+    </group>
+
+
+
+
+</menu>
